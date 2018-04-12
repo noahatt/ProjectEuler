@@ -1,1 +1,1 @@
-a:1000-1;sum distinct (3*1+til floor (1%3)*a), 5*1+til floor (1%5)*a
+sum (1_til 1000) where {(0=x mod 3) or 0=x mod 5}@'1_til 1000
