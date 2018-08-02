@@ -1,1 +1,1 @@
-max "J"$a where 6=sum each (reverse each a)=a:($)(*).'a cross a:100+til 900
+max "J"$a where (reverse each a)~'a:($)(*).'a cross a:100+til 900
