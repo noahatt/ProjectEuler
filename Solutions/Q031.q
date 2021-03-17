@@ -1,0 +1,1 @@
+1+count {(b where {x[0]<=x[1]} each b:a cross x where 200>sum each x),x where 200=sum each x}/[a:1 2 5 10 20 50 100]

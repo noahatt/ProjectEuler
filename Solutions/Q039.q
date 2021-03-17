@@ -1,0 +1,1 @@
+c?max c:{count a where {z=x+y}.'xexp[;2]a,'x-(+).'a:(1+til a)cross 1+a+til floor[x%2]-a:floor x%2+sqrt 2}each til 1000

@@ -1,0 +1,1 @@
+sum where not {min x mod 3 5} each til 1000

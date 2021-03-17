@@ -1,0 +1,1 @@
+"j"$xexp[sum a;2]-sum xexp[;2]a:1+til 100

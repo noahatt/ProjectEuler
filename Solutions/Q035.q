@@ -1,0 +1,1 @@
+count a where all each in[;string a]{(-1+count x){1_x,x[0]}\x} each string a@:where isPrime each a:2,5,where not any each "024568" in/:string til 1000000

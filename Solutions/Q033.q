@@ -1,0 +1,1 @@
+{%[y;x]}. prd each flip a@:where{%[x;y]=%["I"$string[x]0;"I"$string[y]1]}.'a@:where {x[1]=y[0]}.'string a@:where {x<y}.'a:a cross a where 0<mod[;10]a:11+til 89

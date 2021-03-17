@@ -1,0 +1,1 @@
+sum a where {a~reverse max[a]-a:xlog[2;]2_(-':)reverse{x-"j"$xexp[2;]floor xlog[2;x]}\[x]} each a:where {x~reverse x} each string til 1000000

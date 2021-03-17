@@ -1,0 +1,1 @@
+last asc a where "123456789"~/:asc each a:{raze string {9>count raze string x}{x,(first[x]+last[x])}/enlist x} each til 10000

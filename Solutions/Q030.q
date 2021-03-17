@@ -1,0 +1,1 @@
+sum 2_where{x=sum xexp[;5]"J"$a:enlist each string x} each til 1000000

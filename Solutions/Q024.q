@@ -1,0 +1,1 @@
+(9 {a where{count[x]=count distinct x} each a:x cross til 10}/til 10) 1000000-1

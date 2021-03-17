@@ -1,0 +1,1 @@
+sum 1=mod[;7]period where {string[x] like "*01"} period:start+til 2001.01.01-start:1901.01.01
