@@ -7,4 +7,6 @@ divisors:{$[x=1;enlist 1;-1_factors x]}
 abundance:{neg[x]+sum divisors x}
 nextAbundant:{{1>abundance x}{x+2}/x+2}
 longCarry:{{$[0=first x:("J"$-1#/:string 0,x)+0^"J"$-1_/:string x,0;1_x;x]}/[x]}
-permutations:{c:count first x;raze(enlist x,'c+1),({x[;til y-z+1],'y,'x[;y-2+til z]}[x;c+1] each 1+til c-1),enlist (c+1),'x}
+permFunc:{c:count first x;raze(enlist x,'c),({x[;til y-z],'y,'x[;y-1+til z]}[x;c] each 1+til c-1),enlist c,'x}
+permTil:{(x-1) permFunc/enlist 0}
+permScan:{(x-1) permFunc\enlist 0}
