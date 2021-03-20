@@ -1,0 +1,1 @@
+-3+first last {4>last x}{a:1+first x;(a;$[4=count distinct primeFactors a;1+last x;0])}\(2;0)

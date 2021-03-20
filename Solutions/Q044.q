@@ -1,0 +1,1 @@
+"j"$0.5*min (-).'b where in[;a](-).'b@:where in[;a](+).'b@:where (>).'b:a cross a:{x*-1+3*x} each 1+til 2500

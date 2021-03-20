@@ -1,0 +1,1 @@
+@[;1]last{$[40755>=b:last[x] 1;1b;b in flip[x] 2;not b in flip[x] 3;1b]}{a:1+first last x;x,enlist"j"$(a;0.5*a*a+1;0.5*a*-1+3*a;a*-1+2*a)}/enlist 1+til 4

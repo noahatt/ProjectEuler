@@ -1,0 +1,1 @@
+-10#string sum {x {$[1e10<a:x*y;"J"$-10#string a;a]}[;x]/1} each 1+til 1000

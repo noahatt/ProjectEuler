@@ -1,0 +1,1 @@
+@[;1]{$[x 2;1b;x[1] in "j"$(+).'(1_x 0) cross 2*xexp[;2]til ceiling xexp[ceiling x[1]%2;0.5]]}{($[last x;(x[0],x[1]);x[0]];x[1]+2;isPrime x[1]+2)}/(enlist 2;3;1)
